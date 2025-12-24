@@ -1,2 +1,8 @@
-# a.c.i.p.-cfo
-sattelite
+# A.C.I.P. CFO
+
+Federated satellite application connected to ECHO-001 core.
+
+## Federation Status
+- **Core**: echo-001
+- **Status**: Registered
+- **Sync**: Enabled
